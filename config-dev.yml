@@ -1,3 +1,4 @@
+# this is spring cloud config dev
 config:
   label: dev
   version: 1
