@@ -1,3 +1,4 @@
-this is spring cloud config dev
-
-version = 1
+config:
+  label: dev
+  version: 1
+  
