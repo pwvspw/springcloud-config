@@ -1,1 +1,5 @@
-this is spring cloud config prod
+# this is spring cloud config prod
+
+config: 
+  label: prod
+  version: 1
